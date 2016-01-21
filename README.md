@@ -2,8 +2,8 @@
 
 我的私人笔记本。
 
--[Python][python]：Python学习笔记。
--[Tools][tool]：工具使用记录。
+- [Python][python]：Python学习笔记。
+- [Tools][tool]：工具使用记录。
 
 [python]: ./Python "Python学习笔记"
 [tool]: ./Tools "工具使用记录"

@@ -2,7 +2,7 @@
 
 日常使用工具记录。
 
--[VS Code][vscode]：VS Code。
+- [VS Code][vscode]：VS Code。
 
 [vscode]: ./VSCode.md "VS Code"
 

@@ -2,7 +2,7 @@
 
 自己Python学习记录。
 
--[Spider][spider]：Python爬虫学习笔记。
+- [Spider][spider]：Python爬虫学习笔记。
 
 [spider]: ./Spider "Python爬虫学习笔记"
 
